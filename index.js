@@ -20,4 +20,8 @@ function appendKitten(array, element) {
   return [...kittens, "Broom"];
 }
 
+function prependKitten(array, element) {
+  return ["", ...kittens];
+}
+
 // Add your functions and code here
