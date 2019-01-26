@@ -12,4 +12,6 @@ function destructivelyRemoveLastKitten(array, element) {
   kittens.pop("Ralph");
 }
 
+
+
 // Add your functions and code here
