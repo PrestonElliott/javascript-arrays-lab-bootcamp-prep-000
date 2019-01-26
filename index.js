@@ -9,7 +9,7 @@ function destructivelyPrependKitten(array, element) {
 }
 
 function destructivelyRemoveLastKitten(array) {
-  kittens.
+  kittens.pop()
 }
 
 // Add your functions and code here
