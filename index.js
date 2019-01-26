@@ -16,4 +16,8 @@ function destructivelyRemoveFirstKitten(array, element) {
   kittens.shift("Bob");
 }
 
+function appendKitten(array, element) {
+  kittens.
+}
+
 // Add your functions and code here
