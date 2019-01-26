@@ -12,6 +12,6 @@ function destructivelyRemoveLastKitten(array, element) {
   kittens.pop("Ralph");
 }
 
-
+function destructivelyRemoveFirstKitten(
 
 // Add your functions and code here
