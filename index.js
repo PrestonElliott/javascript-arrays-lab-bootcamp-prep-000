@@ -4,5 +4,9 @@ function destructivelyAppendKitten(array, element) {
 kittens.push("Ralph");
 }
 
+function destructivelyPrependKitten(array, element) {
+  kittens.
+}
+
 
 // Add your functions and code here
