@@ -29,7 +29,7 @@ function removeLastKitten(array) {
 }
 
 function removeFirstKitten(array) {
-  return kittens = kittens.slice(0);
+  return kittens.slice(1);
 }
  
 // Add your functions and code here
